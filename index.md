@@ -1,4 +1,4 @@
-# Resident Alien Game Development
+# Resident Alien Game
 
 ## Table of contents
 

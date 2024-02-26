@@ -1,11 +1,11 @@
-title: Resident Alien Game Development
+title: Resident Alien Game
 description: To show the development process of Resident Alien Game
 google_analytics:
 show_downloads: false
 theme: jekyll-theme-cayman
 github:
   is_project_page: true
-  repository_url: https://github.com/hangbozhang/resident-alien
+  repository_url: https://github.com/resident-alien-game/resident-alien-game
 
 gems:
   - jekyll-mentions
