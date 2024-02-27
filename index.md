@@ -29,7 +29,7 @@ Areas of interest: Software Development, Machine Learning, Artificial intelligen
 
 Email: [feimei@hawaii.edu](mailto:feimei@hawaii.edu)
 
-Portfolio: [https://github.com/FeimeiChen/FeimeiChen.github.io)
+Portfolio: [https://feimeichen.github.io/](https://feimeichen.github.io/)
 
 
 
