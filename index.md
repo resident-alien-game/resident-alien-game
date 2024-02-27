@@ -31,10 +31,11 @@ Email: [feimei@hawaii.edu](mailto:feimei@hawaii.edu)
 
 Portfolio: [https://feimeichen.github.io/](https://feimeichen.github.io/)
 
+***Mikhail Shkaralevich:*** 
+Undergraduate student in BS Computer Science at University of Hawaii at Manoa. Expect to graduate in Fall 2025.
 
+Areas of interest: Software & Web Developmen, Robotics and Cybersecurity.
 
+Email: [mikhail8@hawaii.edu](mailto:mikhail8@hawaii.edu)
 
-
-
-
-
+Portfolio: [https://mikhail-shkaralevich.github.io/](https://mikhail-shkaralevich.github.io/)
