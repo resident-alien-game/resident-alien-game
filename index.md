@@ -21,6 +21,20 @@ Email: [hangbo@hawaii.edu](mailto:hangbo@hawaii.edu)
 
 Portfolio: [https://hangbozhang.github.io/](https://hangbozhang.github.io/)
 
+***Feimei Chen:*** 
+
+Graduate student in Computer Science at University of Hawaii at Manoa. Graduating in May 2025.
+
+Areas of interest: Software Development, Machine Learning, Artificial intelligence.
+
+Email: [feimei@hawaii.edu](mailto:feimei@hawaii.edu)
+
+Portfolio: [https://github.com/FeimeiChen/FeimeiChen.github.io)
+
+
+
+
+
 
 
 
