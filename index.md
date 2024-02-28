@@ -16,7 +16,7 @@
 <img src="doc/p2-board.png">
 
 We have brainstormed to come up with this game concept of a 3D thrilling game where you play as an alien trying to 
-fix your crashed spaceship and escape from the planet. The game will be a third-person game with a focus on exploration 
+fix your crashed spaceship and escape from the inspired by the TV show <strong> Resident Alien </strong>. The game will be a third-person game with a focus on exploration 
 and puzzle-solving. The game will be set in a large open world with a variety of environments, 
 including forests, mountains, and deserts. The game will feature a variety of skills that the player can use to 
 fight off enemies and solve puzzles. The game will also feature a variety of enemies, including humans, robots, 
