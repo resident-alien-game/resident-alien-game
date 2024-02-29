@@ -13,7 +13,7 @@
 
 ### Phase 1: Brainstorming and Concepts
 
-<img src="doc/p2-board.png">
+<img src="doc/image.png">
 
 We have brainstormed to come up with this game concept of a 3D thrilling game where you play as an alien trying to 
 fix your crashed spaceship and escape from the inspired by the TV show <strong> Resident Alien </strong>. The game will be a third-person game with a focus on exploration 
