@@ -40,7 +40,7 @@ Portfolio: [https://hangbozhang.github.io/](https://hangbozhang.github.io/)
 
 Graduate student in Computer Science at University of Hawaii at Manoa. Graduating in May 2025.
 
-Areas of interest: Software Development, Machine Learning, Artificial intelligence.
+Areas of interest: Software Development, Machine Learning, and Artificial Intelligence.
 
 Email: [feimei@hawaii.edu](mailto:feimei@hawaii.edu)
 
