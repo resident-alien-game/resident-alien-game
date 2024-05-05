@@ -5,7 +5,8 @@
 * [Motivation](#motivation)
 * [Development Process](#development-process)
   * [Phase 1: Brainstorming and Concepts](#phase-1-brainstorming-and-concepts)
-
+  * [Phase 2: Prototype](#phase-2-prototype)
+  * [Phase 3: Current Version](#phase-3-current-version)
 
 ## Motivation
 
@@ -45,6 +46,11 @@ We have created a prototype of the game to demonstrate the core gameplay mechani
 - FBI: The FBI is represented by the <span style="color:orange;"> orange box </span>. It will collect the ship piece so that the alien may not be able to rebuild the ship and escape.
 - Ship Piece: The ship piece is represented by the <span style="color:grey;"> grey coin </span>. The alien needs to collect at least 5 of the ship pieces to rebuild the ship and escape.
 - Houses: The houses are represented by the brick looking open boxes. The alien can enter the houses to steal food/drink or hide from the police.
+
+
+### Phase 3: Current Version
+
+[Place holder for the current version of the game.]
 
 ## About us
 
