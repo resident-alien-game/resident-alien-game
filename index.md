@@ -13,7 +13,7 @@
 
 ### Phase 1: Brainstorming and Concepts
 
-<img src="doc/p2-board.png">
+<img src="doc/image.png">
 
 We have brainstormed to come up with this game concept of a 3D thrilling game where you play as an alien trying to 
 fix your crashed spaceship and escape from the inspired by the TV show <strong> Resident Alien </strong>. The game will be a third-person game with a focus on exploration 
@@ -62,7 +62,7 @@ Portfolio: [https://hangbozhang.github.io/](https://hangbozhang.github.io/)
 
 Graduate student in Computer Science at University of Hawaii at Manoa. Graduating in May 2025.
 
-Areas of interest: Software Development, Machine Learning, Artificial intelligence.
+Areas of interest: Software Development, Machine Learning, and Artificial Intelligence.
 
 Email: [feimei@hawaii.edu](mailto:feimei@hawaii.edu)
 
