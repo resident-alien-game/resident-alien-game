@@ -28,7 +28,7 @@ will be released on PC and consoles.
 
 Vedio of the prototype:
 
-<iframe width="640" height="320" src="https://www.youtube.com/embed/eVY5dE3e7Jk" frameborder="0" allowfullscreen></iframe>
+<iframe width="720" height="560" src="https://www.youtube.com/embed/eVY5dE3e7Jk" frameborder="0" allowfullscreen></iframe>
 
 
 We have created a prototype of the game to demonstrate the core gameplay mechanics and features.
