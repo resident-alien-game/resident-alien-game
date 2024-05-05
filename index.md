@@ -27,7 +27,7 @@ will be released on PC and consoles.
 ### Phase 2: Prototype
 
 <video width="640" height="360" controls>
-  <source src="doc/resident-alien.mp4" type="video/mp4">
+  <source src="https://youtu.be/eVY5dE3e7Jk" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
