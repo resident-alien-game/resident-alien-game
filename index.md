@@ -26,10 +26,10 @@ will be released on PC and consoles.
 
 ### Phase 2: Prototype
 
-<video width="640" height="360" controls>
-  <source src="https://youtu.be/eVY5dE3e7Jk" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+Vedio of the prototype:
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=eVY5dE3e7Jk" frameborder="0" allowfullscreen></iframe>
+
 
 We have created a prototype of the game to demonstrate the core gameplay mechanics and features.
 - Alien: The player controls an alien character who has crash-landed on Earth and is trying to repair his spaceship and escape.
