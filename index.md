@@ -24,6 +24,28 @@ and other aliens. The game will have a strong focus on story and character devel
 and other activities for the player to engage in. The game will be developed using the Unity game engine and 
 will be released on PC and consoles.
 
+### Phase 2: Prototype
+
+<video width="640" height="360" controls>
+  <source src="doc/resident-alien.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+We have created a prototype of the game to demonstrate the core gameplay mechanics and features.
+- Alien: The player controls an alien character who has crash-landed on Earth and is trying to repair his spaceship and escape.
+  1. The <span style="color:red;"> red box </span> represents the alien character in alien form. 
+  2. The <span style="color:blue;"> blue box </span> represents the alien character in human form.
+- Kid: The kid is represented by the <span style="color:green;"> green box </span>. The kid is a non-playable character who can force the alien to change back to alien form if it's in the human form.
+- Civilian: The civilian is represented by the <span style="color:purple;"> purple box </span>. The civilian is a non-playable character who can call the police if it sees the food/drink get stolen. Also, the alien can only change into human form after kill a civlian.
+- Food/Drink: The food/drink is represented by the food/drink like items. The alien can steal the food/drink to recover health/energy.
+- Police: The police is represented by the <span style="color:yellow;"> yellow box </span>. The police is a non-playable character who will do the following:
+  1. If the police sees the alien in alien form, the police will chase and shoot the alien.
+  2. If the police sees a dead civilian, it will chase and shoot the alien even if it is in human form.
+  3. If the police gets called that food/drink is stolen, it will chase the alien.
+- FBI: The FBI is represented by the <span style="color:orange;"> orange box </span>. It will collect the ship piece so that the alien may not be able to rebuild the ship and escape.
+- Ship Piece: The ship piece is represented by the <span style="color:grey;"> grey coin </span>. The alien needs to collect at least 5 of the ship pieces to rebuild the ship and escape.
+- Houses: The houses are represented by the brick looking open boxes. The alien can enter the houses to steal food/drink or hide from the police.
+
 ## About us
 
 ***Hangbo Zhang:*** 
