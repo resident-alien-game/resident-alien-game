@@ -7,6 +7,7 @@
   * [Phase 1: Brainstorming and Concepts](#phase-1-brainstorming-and-concepts)
   * [Phase 2: Prototype](#phase-2-prototype)
   * [Phase 3: Current Version](#phase-3-current-version)
+* [About us](#about-us)
 
 ## Motivation
 
