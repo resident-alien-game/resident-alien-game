@@ -7,7 +7,9 @@
   * [Phase 1: Brainstorming and Concepts](#phase-1-brainstorming-and-concepts)
   * [Phase 2: Prototype](#phase-2-prototype)
   * [Phase 3: Current Version](#phase-3-current-version)
+* [Future Work](#future-work)
 * [Project Management](#project-management)
+* [Game Download](#game-download)
 * [About us](#about-us)
 
 ## Motivation
@@ -54,7 +56,7 @@ We have created a prototype of the game to demonstrate the core gameplay mechani
 
 This is our current and final version of the game:
 
-<iframe width="720" height="560" src="https://www.youtube.com/embed/6RwFOAIn2ck" frameborder="0" allowfullscreen></iframe>
+<iframe width="720" height="560" src="https://www.youtube.com/embed/USLbCHkeDRs" frameborder="0" allowfullscreen></iframe>
 
 In this version, we have made the following changes to the game:
 - House textures: We have added textures to the houses to make them look more realistic.
@@ -71,10 +73,17 @@ In this version, we have made the following changes to the game:
 - Grass: We have added the grass to the game
 - Lighting: We have changed lighting to the game to a dark light so it will be a little bit harder to find the pieces. We have also added a new light source, while a UFO flying around the map it will shine a bright light on the ground.
 
+## Future Work
+1. Add more levels to the game.
+2. Let the alien be able to kill the cop by attacking couple time.
+3. Once changed back to alien form, instead of turning back after a certain time, the alien will have to kill a civilian to change back to human form.
 
 ## Project Management
 
 We have used the project board from GitHub to manage our project. The link to the project board is [here](https://github.com/orgs/resident-alien-game/projects/3/views/1).
+
+## Game Download
+The game can be downloaded from the following link: [Resident Alien Game](https://hangbo.itch.io/resident-alien-game)
 
 ## About us
 
